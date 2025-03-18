@@ -1,4 +1,4 @@
-# Software Project 2022 Group 01: Craftsman Portal
+# Software Project 2022 Craftsman Portal
 
 ## Quick Setup
 To create the Docker container and start the application:
